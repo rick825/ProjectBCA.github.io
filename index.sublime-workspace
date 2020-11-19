@@ -1,0 +1,864 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-right\tproperty"
+			],
+			[
+				"fon",
+				"font-weight\tproperty"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"font-",
+				"font-weight\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"text",
+				"text-shadow"
+			],
+			[
+				"bod",
+				"border-bottom\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"fn",
+				"font-size\tproperty"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"r",
+				"right\tproperty"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"backgro",
+				"background-size"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"marg",
+				"margin-right\tproperty"
+			],
+			[
+				"fel",
+				"flex\tproperty"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"len",
+				"length\tfunc"
+			],
+			[
+				"he",
+				"height\tfunc"
+			],
+			[
+				"wh",
+				"white"
+			],
+			[
+				"po",
+				"pointer"
+			],
+			[
+				"light",
+				"lightcoral"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"te",
+				"text-shadow"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"backgr",
+				"background-repeat\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"sp",
+				"space-evenly"
+			],
+			[
+				"spa",
+				"space-between"
+			],
+			[
+				"m",
+				"margin-top\tproperty"
+			],
+			[
+				"transi",
+				"transition\tproperty"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"boder",
+				"border-radius\tproperty"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"spac",
+				"space-evenly"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"dar",
+				"darkgreen"
+			],
+			[
+				"dard",
+				"darkred"
+			],
+			[
+				"getElem",
+				"getElementById"
+			],
+			[
+				"getD",
+				"getDay\t(): int Date"
+			],
+			[
+				"tol",
+				"toLocaleString\t(): string Object"
+			],
+			[
+				"inner",
+				"innerHTML\tClock.html"
+			],
+			[
+				"marin",
+				"margin\tproperty"
+			],
+			[
+				"getEle",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"toLocate",
+				"toLocaleTimeString\t(): string Date"
+			],
+			[
+				"Date",
+				"Date()"
+			],
+			[
+				"bacg",
+				"background-color"
+			],
+			[
+				"cons",
+				"console_log"
+			],
+			[
+				"scr",
+				"scroll"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"ad",
+				"addEventListener"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"tras",
+				"transform\tproperty"
+			],
+			[
+				"fl",
+				"flex-direction\tproperty"
+			],
+			[
+				"wit",
+				"white"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"tr",
+				"transition"
+			],
+			[
+				"trans",
+				"translate"
+			],
+			[
+				"wo",
+				"word-spacing"
+			],
+			[
+				"pad",
+				"padding-top\tproperty"
+			],
+			[
+				"ease-in",
+				"ease-in-out"
+			],
+			[
+				"trn",
+				"translate()"
+			],
+			[
+				"doc",
+				"document\t: Document Window"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"ani",
+				"animation-delay"
+			],
+			[
+				"transition-d",
+				"transition-delay\tproperty"
+			],
+			[
+				"cnte",
+				"center"
+			],
+			[
+				"c",
+				"columns\tproperty"
+			],
+			[
+				"ht",
+				"html5\tSimple HTML5 Boilerplate"
+			],
+			[
+				"main",
+				"main-nav"
+			],
+			[
+				"f",
+				"fixed"
+			],
+			[
+				"alig",
+				"align-items\tproperty"
+			],
+			[
+				"html",
+				"html5\tSimple HTML5 Boilerplate"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"padding",
+				"padding-top\tproperty"
+			],
+			[
+				"p",
+				"padding-top\tproperty"
+			],
+			[
+				"box-s",
+				"box-shadow\tproperty"
+			],
+			[
+				"bk",
+				"black"
+			],
+			[
+				"margin-",
+				"margin-right\tproperty"
+			],
+			[
+				"blc",
+				"block"
+			],
+			[
+				"le",
+				"letter-spacing\tproperty"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"transform",
+				"transform\t = 'translate(x, y)' Style CSS"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"h",
+				"html5\tSimple HTML5 Boilerplate"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"fle",
+				"flex-direction\tproperty"
+			],
+			[
+				"paddin",
+				"padding-left\tproperty"
+			],
+			[
+				"bord",
+				"border-radius\tproperty"
+			],
+			[
+				"backgrou",
+				"background-color\tproperty"
+			],
+			[
+				"cnt",
+				"center"
+			],
+			[
+				"cn",
+				"center"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"text-de",
+				"text-decoration\tproperty"
+			],
+			[
+				"colum",
+				"column"
+			],
+			[
+				"pdd",
+				"padding-bottom"
+			],
+			[
+				"getE",
+				"getElementsByClassName\t( classNames: DOMString ): HTMLCollection Document"
+			],
+			[
+				"overflo",
+				"overflow"
+			],
+			[
+				"side",
+				"sideBar"
+			],
+			[
+				"li",
+				"list-style\tproperty"
+			],
+			[
+				"border-lef",
+				"border-left-color\tproperty"
+			],
+			[
+				"con",
+				"const"
+			],
+			[
+				"t",
+				"transition\tproperty"
+			],
+			[
+				"fi",
+				"fixed"
+			],
+			[
+				"boder-left",
+				"border-left-color\tproperty"
+			],
+			[
+				"wrap",
+				"word-wrap\tproperty"
+			],
+			[
+				"hi",
+				"hidden"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"min-",
+				"min-width\tproperty"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"geE",
+				"getElementsByClassName\t( classNames: DOMString ): HTMLCollection Element"
+			],
+			[
+				"nav",
+				"navbars\tmain.html"
+			],
+			[
+				"quer",
+				"querySelector\t( selectors: DOMString ): Element (Selectors) Element"
+			],
+			[
+				"border-col",
+				"border-color\tproperty"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"backg",
+				"background-image\tproperty"
+			],
+			[
+				"re",
+				"relative"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"view",
+				"View: Toggle Menu"
+			],
+			[
+				"",
+				"Build With: JavaC"
+			],
+			[
+				"buil",
+				"Build With: JavaC"
+			],
+			[
+				"j",
+				"Build With: JavaC"
+			],
+			[
+				"runtime",
+				"Snippet: import junit.framework.TestCase;"
+			],
+			[
+				"javac",
+				"Build With: JavaC"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"compile",
+			"debug",
+			"javac stackuser.java",
+			"java stackuser",
+			"javac stackuser.java",
+			"javac ",
+			"javac",
+			"run"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/omm/Desktop/Java/subjava/main.java",
+		"/D/Web Dev/Plugins/JavaScirpt/Dynamic Clock/style.css",
+		"/D/Web Dev/Plugins/JavaScirpt/Dynamic Clock/Clock.html",
+		"/D/Web Dev/friends/Sonu/clock/clock.Html",
+		"/D/Web Dev/friends/Anand/index.html",
+		"/D/Web Dev/friends/Rohit/style.css",
+		"/D/Web Dev/friends/Rohit/index.html",
+		"/D/Web Dev/bootstrap/dist/css/bootstrap.css",
+		"/D/Web Dev/friends/kush/style.css",
+		"/D/Web Dev/friends/kush/index.html",
+		"/D/Web Dev/index.html",
+		"/D/Web Dev/css/hover.css",
+		"/D/Web Dev/css/index.html",
+		"/D/Web Dev/Plugins/Css cards/2D Card with slider/index.html",
+		"/D/Web Dev/Plugins/Image Slider/3D image Slider/index.html",
+		"/D/Web Dev/Plugins/Templates/Brochure/brochure.html",
+		"/D/Web Dev/Plugins/Templates/Brochure/style.css",
+		"/D/Web Dev/Plugins/Image Slider/Navigation onClick Slide show/style.css",
+		"/D/Web Dev/Plugins/Image Slider/Navigation onClick Slide show/Index.html",
+		"/D/Web Dev/Plugins/Templates/Brochure/tutorial-12/Pure CSS Image Slider Files/Pure CSS Slider Complete/index.html",
+		"/D/Web Dev/Plugins/Templates/Standard/style.css",
+		"/D/Web Dev/Plugins/Templates/Commercial/commercial.html",
+		"/D/Web Dev/Plugins/Forms/Standard/index.html",
+		"/D/Web Dev/Plugins/Templates/Classic/Classic.html",
+		"/D/Web Dev/Plugins/Css cards/3D Card with slider/index.html",
+		"/D/Web Dev/Plugins/Css cards/Description cards/Description.html",
+		"/D/Web Dev/Plugins/Css cards/Responsive cards/Responsive.html",
+		"/D/Web Dev/Plugins/Nav Bar/Standard/Standard.html",
+		"/D/Web Dev/Plugins/Templates/Standard/Standard.html",
+		"/D/Web Dev/Plugins/Image Slider/3D image Slider/style.css",
+		"/D/Web Dev/college directory/BCA-Files/Sem-3/BCA-3.html",
+		"/D/Web Dev/college directory/BCA-Files/Sem-3/internal-files.css",
+		"/D/Web Dev/college directory/index.html",
+		"/C/Users/omm/AppData/Roaming/Sublime Text 3/Packages/User/Color Highlight.sublime-settings",
+		"/C/Users/omm/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/D/BCA/3rd sem/HTML/Projects/style.css",
+		"/D/BCA/3rd sem/HTML/Projects/index.html",
+		"/D/BCA/3rd sem/HTML/Projects/book.css",
+		"/D/Web Dev/Plugins/Forms/index.html",
+		"/D/Web Dev/Sonu/sonu.html",
+		"/D/Web Dev/MLM/contact.css",
+		"/D/Web Dev/Sonu/style.css",
+		"/D/Web Dev/Plugins/Css cards/Responsive cards/style.css",
+		"/D/Web Dev/Plugins/Nav Bar/Standard/style.css",
+		"/D/Web Dev/Plugins/Templates/Classic/style.css",
+		"/D/Web Dev/Plugins/Css cards/Description cards/style.css",
+		"/D/BCA/3rd sem/HTML/Programs/CSS/CSS External/style.css",
+		"/D/BCA/3rd sem/HTML/Programs/CSS/CSS External/CssExternal.html",
+		"/D/BCA/3rd sem/HTML/Programs/CSS/CSSinternal.html",
+		"/D/BCA/3rd sem/HTML/Programs/CSS/CSSexample.html",
+		"/D/Web Dev/SkyStack/TheSky/style.css",
+		"/D/Web Dev/Plugins/Nav Bar/Standard/index.html",
+		"/D/Web Dev/Plugins/Css cards/Flip Cards/style.css",
+		"/D/Web Dev/Plugins/Css cards/Flip Cards/flipcard.html",
+		"/D/Web Dev/Plugins/Nav Bar/Classic/Classic.html",
+		"/D/Web Dev/Plugins/Body/Classic/style.css",
+		"/D/Web Dev/Plugins/Body/Classic/Classic.html",
+		"/D/Web Dev/Plugins/Nav Bar/Classic/style.css",
+		"/D/Web Dev/Plugins/Nav Bar/Classic/index.html",
+		"/D/Web Dev/college directory/style.css",
+		"/D/Web Dev/Plugins/Image Slider/Gallery/style.css",
+		"/D/Web Dev/Plugins/Image Slider/Gallery/index.html",
+		"/D/Web Dev/MLM/index.html",
+		"/D/Web Dev/MLM/main.css",
+		"/D/Web Dev/college directory/BCA-Files/Sem-3/bca-3.css",
+		"/D/Web Dev/MLM/style.css",
+		"/D/Web Dev/JavaScript/index.html",
+		"/D/Web Dev/JavaScript/ap.js",
+		"/D/Web Dev/Demo/rohit.html",
+		"/D/Web Dev/MLM/account.html",
+		"/D/Web Dev/JavaScript/Style.css",
+		"/D/Web Dev/bootstrap/index.html",
+		"/D/Web Dev/college directory/BCA-Files/Sem-1/BCA-1.html",
+		"/D/Web Dev/college directory/BBA-Files/Sem-1/bba-1.css",
+		"/D/Web Dev/college directory/BBA-Files/Sem-1/bba-1.html",
+		"/D/Web Dev/college directory/BCA-Files/Sem-1/bca-1.css",
+		"/D/Web Dev/college directory/contact.css",
+		"/D/Web Dev/college directory/contact.html",
+		"/D/Web Dev/college directory/BCA-Files/Sem-1/internal-files.css",
+		"/D/Web Dev/college directory/BCA-Files/Sem-1/bca-1.js",
+		"/D/Web Dev/college directory/BCA-Files/Sem-3/bca-3.js",
+		"/D/Web Dev/college directory/BCA-Files/Sem-2/BCA-2.html",
+		"/D/Web Dev/college directory/BCA-Files/Sem-2/internal-files.css",
+		"/D/Web Dev/college directory/BCA-Files/Sem-2/bca-2.css",
+		"/D/Web Dev/college directory/BCA-Files/Sem-2/BCA-3.html",
+		"/D/Web Dev/college directory/BCA-Files/Sem-3/app.js",
+		"/D/Web Dev/college directory/BCA-Files/Sem-3/main.html",
+		"/D/Web Dev/college directory/main.html",
+		"/D/Web Dev/college directory/main.css",
+		"/D/Web Dev/college directory/internal-files.css",
+		"/D/Web Dev/college directory/app.js",
+		"/D/3rd sem/HTML/link/index.html",
+		"/D/3rd sem/HTML/link/about.html",
+		"/D/3rd sem/HTML/link/contact.html",
+		"/D/3rd sem/HTML/link/hyperlink.html",
+		"/D/3rd sem/HTML/link/social.html",
+		"/D/Softwares/mingw-w64-v7.0.0/build-aux/install-sh",
+		"/D/Web Dev/MLM/sign-up.css",
+		"/D/Web Dev/MLM/contact.html",
+		"/D/Web Dev/MLM/Sign-up.html",
+		"/D/Web Dev/SkyStack/ss/index.html",
+		"/D/Web Dev/SkyStack/ss/style.css",
+		"/D/Java/Exception/ThrowsDemo.java",
+		"/D/Java/Exception/ThrowDemo.java",
+		"/D/Web Dev/SkyStack/TheSky/about.html",
+		"/D/Web Dev/SkyStack/TheSky/contact.html",
+		"/D/Web Dev/SkyStack/TheSky/app.js",
+		"/D/3rd sem/HTML/abbreviation.html",
+		"/D/3rd sem/HTML/all.html",
+		"/D/Web Dev/SkyStack/TheSky/index.html",
+		"/D/3rd sem/HTML/para strong.html",
+		"/D/3rd sem/HTML/para mark.html",
+		"/D/3rd sem/HTML/para style.html",
+		"/D/3rd sem/HTML/para align.html",
+		"/D/Java/stack/stackuser.java",
+		"/C/Users/omm/Desktop/date.html",
+		"/D/Web Dev/SkyStack/ss/date.html",
+		"/C/Users/omm/AppData/Roaming/Sublime Text 3/Packages/EmmetOneLine/Default (Windows).sublime-keymap",
+		"/D/Web Dev/SkyStack/app.js",
+		"/D/Web Dev/SkyStack/style.css",
+		"/D/Web Dev/SkyStack/contact.html",
+		"/D/Web Dev/SkyStack/about.html",
+		"/D/Web Dev/SkyStack/index.html",
+		"/D/Web Dev/style.css",
+		"/D/Web Dev/css/hover.css.map",
+		"/D/Web Dev/css/demo-page.css",
+		"/D/Web Dev/css/hover-min.css",
+		"/C/Users/omm/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"main.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Program Files\\Sublime Text 3\\BCA-HTML.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 220.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
